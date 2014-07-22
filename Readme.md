@@ -5,9 +5,18 @@ Ms LTDA
 - De boa qualidade
 - Inovadores
 
+Temas
 =======
 
-- temas
 - ciencia
 - midia nerd
+
+Cores
+=======
+
+- vermelho
+- rosa
+- azul
+- branco
+- preto
 
