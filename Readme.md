@@ -9,7 +9,7 @@ Ms LTDA
 
 - temas
 - ciencia
-- midia geek
+- midia otaku
 
 
 =======
