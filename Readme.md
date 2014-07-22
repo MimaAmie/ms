@@ -9,4 +9,5 @@ Ms LTDA
 
 - temas
 - ciencia
-- midia geek
+- midia nerd
+
